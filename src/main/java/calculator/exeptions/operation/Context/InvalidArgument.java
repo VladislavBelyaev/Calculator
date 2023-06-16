@@ -6,7 +6,7 @@ public class InvalidArgument extends ContextExeption {
 
     public InvalidArgument()
     {
-        super(" invalid argument\n");
+        super(" invalid argument");
     }
 
 }

@@ -5,6 +5,6 @@ import main.java.calculator.exeptions.operation.ContextExeption;
 public class UninitializedValue extends ContextExeption {
 
     public UninitializedValue(){
-        super(" parameter uninitialized\n");
+        super(" parameter uninitialized");
     }
 }

@@ -6,6 +6,6 @@ public class PopEmptyStack extends ContextExeption {
 
     public PopEmptyStack()
     {
-        super(" stack is empty\n");
+        super(" stack is empty");
     }
 }

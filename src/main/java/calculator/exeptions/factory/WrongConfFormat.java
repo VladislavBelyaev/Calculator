@@ -6,6 +6,6 @@ import main.java.calculator.exeptions.FactoryExeption;
 public class WrongConfFormat extends FactoryExeption {
 
     public WrongConfFormat(){
-        super(" wrong configure file format\n");
+        super(" wrong configure file format");
     }
 }

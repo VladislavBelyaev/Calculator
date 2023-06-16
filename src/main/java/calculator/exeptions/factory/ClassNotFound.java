@@ -6,6 +6,6 @@ import main.java.calculator.exeptions.FactoryExeption;
 public class ClassNotFound extends FactoryExeption {
 
     public ClassNotFound(){
-        super(" class not found\n");
+        super(" class not found");
     }
 }

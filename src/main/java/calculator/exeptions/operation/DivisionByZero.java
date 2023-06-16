@@ -5,6 +5,6 @@ import main.java.calculator.exeptions.OperationExeption;
 public class DivisionByZero extends OperationExeption {
 
     public DivisionByZero(){
-        super(" division by zero\n");
+        super(" division by zero");
     }
 }
