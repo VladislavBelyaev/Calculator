@@ -1,0 +1,10 @@
++ main.java.calculator.operations.Addition
+# main.java.calculator.operations.Comment
+DEFINE main.java.calculator.operations.Define
+/ main.java.calculator.operations.Division
+* main.java.calculator.operations.Multiplication
+POP main.java.calculator.operations.Pop
+PRINT main.java.calculator.operations.Print
+PUSH main.java.calculator.operations.Push
+SQRT main.java.calculator.operations.Sqrt
+- main.java.calculator.operations.Substraction
